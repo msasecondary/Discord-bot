@@ -1,0 +1,2 @@
+# bdzone
+Discord Bot
